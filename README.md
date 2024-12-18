@@ -1,4 +1,4 @@
-#Hiking App
+# Hiking App
 The app is focused on hiking and offers options for signing up for hiking tours on three different mountains. It includes a feature for rating the tours, as well as a graph displaying the most popular mountains for hiking. Additionally, the app features a contact form.
 
 The application is built using React.
